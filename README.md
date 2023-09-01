@@ -16,4 +16,5 @@ Unit tests are included for each mapper to ensure the correctness of mappings.
 
 👤 **Contributor**:
 Mehdi Talebi
-Linkedin: (https://www.linkedin.com/in/mahdi-talebi/)https://www.linkedin.com/in/mahdi-talebi/
+
+Linkedin: [mahdi-talebi](https://www.linkedin.com/in/mahdi-talebi/)
