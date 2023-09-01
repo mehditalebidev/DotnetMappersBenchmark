@@ -15,4 +15,5 @@ The performance of each mapper is evaluated using BenchmarkDotNet.
 Unit tests are included for each mapper to ensure the correctness of mappings.
 
 👤 **Contributor**:
-Your Name (replace with your actual name)
+Mehdi Talebi
+Linkedin: [linkedin.me](https://www.linkedin.com/in/mahdi-talebi/)https://www.linkedin.com/in/mahdi-talebi/
