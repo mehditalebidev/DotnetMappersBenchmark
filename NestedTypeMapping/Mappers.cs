@@ -50,7 +50,7 @@ public class Mappers
     {
         var userDto = new UserDto()
         {
-            Address = new AddressDto()
+            Address = user.Address == null ? null : new AddressDto()
             {
                 City = user.Address.City,
                 Street = user.Address.Street
